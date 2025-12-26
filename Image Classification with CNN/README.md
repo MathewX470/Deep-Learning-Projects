@@ -52,7 +52,6 @@ Input Layer: 32x32x3 (RGB images)
 - **TensorFlow/Keras**: Deep learning framework
 - **NumPy**: Numerical computations
 - **Matplotlib**: Data visualization
-- **OpenCV**: Image processing (for testing)
 
 ## 🚀 Getting Started
 
